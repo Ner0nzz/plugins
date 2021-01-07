@@ -33,3 +33,4 @@ Feel free to add additional information to your plugin directory, such as we did
 ## Showcase local development
 
 To develop on the showcase page or theme itself, you can use `hugo` by installing as per above, then running `hugo server -D` in this repository.
+
